@@ -16,7 +16,6 @@ Interested in AI/ML, data science, databases, and software development.
 
 - **Package Delivery Database** — Relational database system using SQL/MySQL
 - **CIFAR-10 Image Classification** — CNN image classification using TensorFlow/Keras
-- **NYC Taxi Trip Duration Prediction** — Machine learning and feature engineering with scikit-learn
 
 ## Experience
 
